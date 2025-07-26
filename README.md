@@ -26,8 +26,8 @@ RecycleVision/
 - CPU-compatible (Apple M2 tested)
 
 ## 📷 Example Results
-<img src="runs/detect/predict/test.jpg" width="300"/>  
-<img src="runs/detect/predict3/metal.jpg" width="300"/>
+![WhatsApp Image 2025-07-26 at 22 10 29](https://github.com/user-attachments/assets/291e92ab-5e27-4b75-8b42-69aa9e2659d3)
+
 
 ## 🛠️ How to Run
 
